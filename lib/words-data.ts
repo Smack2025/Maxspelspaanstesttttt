@@ -19,7 +19,6 @@ export const SPANISH_WORDS: Word[] = [
   { id: 9, spanish_word: "trabajo", dutch_translation: "werk", image_url: "/modern-office-workspace.png", difficulty_level: 2 },
   { id: 10, spanish_word: "tiempo", dutch_translation: "tijd", image_url: "/analog-clock.png", difficulty_level: 2 },
 
-  // ✅ Nieuw Level 3 toegevoegd
   { id: 11, spanish_word: "ventana", dutch_translation: "raam", image_url: "/open-window.png", difficulty_level: 3 },
   { id: 12, spanish_word: "zapato", dutch_translation: "schoen", image_url: "/shoe.png", difficulty_level: 3 },
   { id: 13, spanish_word: "helado", dutch_translation: "ijsje", image_url: "/ice-cream.png", difficulty_level: 3 },
